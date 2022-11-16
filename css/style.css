@@ -1,0 +1,49 @@
+header{
+    display: flex;
+    background-color: #7C5E99;
+    padding: 10px 20px;
+    border-bottom: 10px solid black;
+    justify-content: space-between;
+}
+
+
+nav {
+    vertical-align: middle;
+    text-align: right;
+}
+
+a:before {
+    content: " ";
+    background-color: #F25A70;
+    width: 10px;
+    height: 10px;
+    margin-right: 10px;
+}
+
+a{
+    display: inline-flex;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-family: "Fira Code", Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    text-decoration: none;
+    margin-right: 30px;
+    align-items: center;
+}
+
+#botao{
+    background-color: #F25A70;
+    display: inline-block;
+    line-height: 60px;
+    height: 60px;
+    padding: 0 20px;
+    box-shadow: 5px 5px 0 #000000;
+    margin-right: 0px;
+    transition: transform 1s linear;
+
+}
+
+#botao:hover{
+    color: black;
+    transform: scale(1.09);
+}
