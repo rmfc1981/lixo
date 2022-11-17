@@ -24,14 +24,14 @@ a{
     display: inline-flex;
     color: #FFFFFF;
     font-size: 20px;
-    font-family: "Fira Code", Arial, Helvetica, sans-serif;
+    font-family:  "Fira Code", Arial, Helvetica, sans-serif;
     font-weight: 500;
     text-decoration: none;
     margin-right: 30px;
     align-items: center;
 }
 
-#botao{
+.botao{
     background-color: #F25A70;
     display: inline-block;
     line-height: 60px;
@@ -43,7 +43,61 @@ a{
 
 }
 
-#botao:hover{
+.botao:hover{
     color: black;
     transform: scale(1.09);
 }
+
+.area-da-foto{
+    background: url(../assets/img/photo.png);
+    width: 1440px;
+    height: 797px;
+    padding-top: 0px;
+    border-bottom: 10px solid black;
+}
+
+.area-pixelada {
+    background: url(../assets/img/photopix.png);
+    width: 955px;
+    height: 707px;
+    text-align: center;
+    padding: 80px 0px 0px 0px;
+    border-bottom: 10px solid black;
+    border-right: 5px solid #000000;
+    margin: 0;
+
+}
+
+.area-titulo{
+    width: 627px;
+    height: 184px;
+    margin-top: 116px;
+    margin-left: 91px;
+    margin-bottom: 40px;
+    background-color: #3A4042    ;
+    box-shadow: 5px 5px 0 #000000;
+    align-items: center;
+
+}
+
+h1{
+    color: #F25A70;
+    font-family: "Press Start 2P", Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    text-shadow: 4px 4px 0px #000000;
+    line-height: 40px;
+    text-align: center;
+    padding-top: 30px;
+}
+
+h2{
+    color: #FFFFFF;
+    font-size: 20px;
+    font-family: "Press Start 2P", Arial, Helvetica, sans-serif;
+    line-height: 30px;
+    height: 30px;
+    text-shadow: 4px 4px 0 #000000;
+    text-align: center;
+
+}
+
