@@ -1,0 +1,20 @@
+
+#area-titulo{
+    display: inline-block;
+    background-color: #3A4042;
+    width: 630px;
+    box-shadow: 10px 10px 0 #000000;
+    text-align: center;
+    padding: 45px 44px;
+
+
+    /* margin-top: 116px;
+    margin-left: 91px;
+    margin-bottom: 40px;
+    align-items: center;
+ */
+}
+
+#area-titulo h1{
+    margin-bottom: 28px;
+}

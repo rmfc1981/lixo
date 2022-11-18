@@ -68,36 +68,4 @@ a{
 
 }
 
-.area-titulo{
-    width: 627px;
-    height: 184px;
-    margin-top: 116px;
-    margin-left: 91px;
-    margin-bottom: 40px;
-    background-color: #3A4042    ;
-    box-shadow: 5px 5px 0 #000000;
-    align-items: center;
-
-}
-
-h1{
-    color: #F25A70;
-    font-family: "Press Start 2P", Arial, Helvetica, sans-serif;
-    font-size: 30px;
-    text-shadow: 4px 4px 0px #000000;
-    line-height: 40px;
-    text-align: center;
-    padding-top: 30px;
-}
-
-h2{
-    color: #FFFFFF;
-    font-size: 20px;
-    font-family: "Press Start 2P", Arial, Helvetica, sans-serif;
-    line-height: 30px;
-    height: 30px;
-    text-shadow: 4px 4px 0 #000000;
-    text-align: center;
-
-}
 
