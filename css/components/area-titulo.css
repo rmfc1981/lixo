@@ -1,5 +1,5 @@
 
-#area-titulo{
+.area-titulo{
     display: inline-block;
     background-color: #3A4042;
     width: 630px;
@@ -15,6 +15,6 @@
  */
 }
 
-#area-titulo h1{
+.area-titulo .title{
     margin-bottom: 28px;
 }
