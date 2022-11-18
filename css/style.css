@@ -1,16 +1,6 @@
-nav {
-    vertical-align: middle;
-    text-align: right;
-}
 
-.area-da-foto{
-    background: url(../assets/img/photo.png);
-    width: 1440px;
-    height: 797px;
-    padding-top: 0px;
-    border-bottom: 10px solid black;
-}
 
+/*
 .area-pixelada {
     background: url(../assets/img/photopix.png);
     width: 955px;
@@ -20,4 +10,4 @@ nav {
     border-bottom: 10px solid black;
     border-right: 5px solid #000000;
     margin: 0;
-}
+} */
