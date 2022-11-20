@@ -1,0 +1,42 @@
+.tecnologias{
+    width: 1440px;
+    padding: 60px 235px 100px 235px;
+    box-sizing: border-box;
+    justify-content: space-around;
+    
+}
+
+.bloco-linguagem{
+    display: flex;
+    margin-bottom: 38px;
+}
+
+.titulo-barra{
+    text-align: left;
+    margin-top: 10px;
+    margin-left: 30px;
+    margin-bottom: 4px;
+}
+
+.linguagem{
+    font-family: "Press Start 2P", sans-serif;
+    font-size: 25px;
+    color: #fff;
+    margin-bottom: 16px;
+}
+
+
+.barra{
+    display: flex;
+    content: " ";
+    width: 320px;
+    height: 40px;
+    background-color: #fff;
+    border: 5px solid #000;
+}
+
+.barra::before{
+    content: "";
+    width: 50%;
+    background-color: #7C5E99;
+}

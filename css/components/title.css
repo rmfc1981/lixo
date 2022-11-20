@@ -7,3 +7,9 @@
     line-height: 40px;
     padding-top: 30px;
 }
+
+.title.-second{
+    color: #fff;
+    text-shadow: none;
+    text-align:center;
+}
