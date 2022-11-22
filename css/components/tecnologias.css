@@ -40,3 +40,18 @@
     width: 50%;
     background-color: #7C5E99;
 }
+
+.barra3{
+    display: flex;
+    content: " ";
+    width: 320px;
+    height: 40px;
+    background-color: #fff;
+    border: 5px solid #000;
+}
+
+.barra3::before{
+    content: "";
+    width: value();
+    background-color: #7C5E99;
+}
