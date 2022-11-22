@@ -3,7 +3,6 @@
     font-family: "Press Start 2P", Arial, Helvetica, sans-serif;
     font-size: 30px;
     text-shadow: 4px 4px 0px #000000;
-
     line-height: 40px;
     padding-top: 30px;
 }
@@ -12,4 +11,5 @@
     color: #fff;
     text-shadow: none;
     text-align:center;
+    margin-bottom: 60px;
 }

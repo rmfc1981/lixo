@@ -1,15 +1,38 @@
 .tecnologias{
-    width: 1440px;
-    padding: 60px 235px 100px 235px;
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 960px;
     box-sizing: border-box;
     justify-content: space-around;
+    margin-left: auto;
+    margin-right: auto;
     
 }
 
+.tecnologias .skill-tec{
+    width: 430px;
+    margin-bottom: 40px;
+}
+
+.skill-tec .title{
+    margin-bottom: 1opx;
+}
+
+.tecnologias .skill-tec:nth-child(odd){
+    margin-right: 100px;
+}
+
+.tecnologias .progress-bar{
+    width: 320px;
+}
+
+/*
 .bloco-linguagem{
     display: flex;
     margin-bottom: 38px;
 }
+
+
 
 .titulo-barra{
     text-align: left;
@@ -54,4 +77,4 @@
     content: "";
     width: value();
     background-color: #7C5E99;
-}
+} */
