@@ -1,6 +1,7 @@
 
-.area-projetos{
+.wrapper-card{
     display: flex;
+    justify-content: center;
 }
 
 .card-project{
