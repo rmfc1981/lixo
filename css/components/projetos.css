@@ -1,14 +1,13 @@
 
 .wrapper-card{
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
 }
 
 .card-project{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-left: 150px;
     background-color: #7C5E99;
     width: 280px;
     height: 280px;

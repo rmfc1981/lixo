@@ -19,3 +19,13 @@
     border-bottom: 10px solid #F25A70;
 
 }
+
+.section.-bgBlue{
+    background-color: #4C5B84;
+
+}
+
+.section.-borderBlack{
+    border-bottom: 10px solid #000;
+
+}

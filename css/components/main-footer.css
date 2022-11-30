@@ -1,0 +1,9 @@
+.main-footer{
+    display: flex;
+    background-color: #000;
+    justify-content: center;
+}
+
+footer .action{
+    margin: 28px 28px;
+}

@@ -1,5 +1,5 @@
 
-.botao{
+.main-button{
     background-color: #F25A70;
     display: inline-block;
     line-height: 60px;
@@ -15,7 +15,7 @@
 
 }
 
-.botao:hover {
+.main-button:hover {
     color: black;
     transform: scale(1.09);
 }
