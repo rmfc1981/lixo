@@ -1,5 +1,6 @@
 .main-footer{
-    display: flex;
+
+    display: inline-block;
     background-color: #000;
     justify-content: center;
 }
